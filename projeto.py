@@ -33,5 +33,3 @@ async def on_message(message):
     
 client.run("seu tolken")
         break
-    else:
-        print('não tem essa palavra no dicionário :(')
