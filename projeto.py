@@ -1,7 +1,7 @@
 import discord
 import random
 #TOKEN
-#LINK DO BICHO = https://discord.com/oauth2/authorize?client_id=1428832511785570364&permissions=8&integration_type=0&scope=bot
+#LINK DO BICHO =
 
 # A variável intents armazena as permissões do bot
 intents = discord.Intents.default()
