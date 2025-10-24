@@ -32,4 +32,3 @@ async def on_message(message):
         await message.channel.send(message.content)
     
 client.run("seu tolken")
-        break
